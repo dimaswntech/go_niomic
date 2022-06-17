@@ -1,0 +1,1 @@
+gopath adalah variabel yang digunalan golang berisi rujukan file itu disimpan
